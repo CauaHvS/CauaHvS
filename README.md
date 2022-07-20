@@ -1,4 +1,8 @@
 # 💫 About Me:
+I'm currently working on the support of Construtora Sant'Anna<br>
+🌱 I'm learning to live better<br>
+💬 Ask me about anything<br>
+⚡ Curiosity, I enjoy studying new things
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/caua.henriquevs/) 
