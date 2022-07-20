@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm currently working on the support of Construtora Sant'Anna<br>
+
+🔭 I'm currently working on the support of Construtora Sant'Anna<br>
 🌱 I'm learning to live better<br>
 💬 Ask me about anything<br>
 ⚡ Curiosity, I enjoy studying new things
