@@ -28,6 +28,8 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaHvS&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
 
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
